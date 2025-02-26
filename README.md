@@ -1,4 +1,4 @@
-# ce9-assignment-2.12
+# CE9-Assignment-2.12
 AWS Lambda
 
 
